@@ -1,0 +1,6 @@
+streamlit
+pandas
+plotly
+kagglehub  # Jika pakai
+scikit-learn  # Untuk KMeans
+# Tambah library lain dari notebook: numpy, warnings, dll.
